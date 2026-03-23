@@ -1,4 +1,4 @@
-Copyright (c) 2025 thanos-coder2
+Copyright (c) 2026 thanos-coder2
 
 This project is licensed for personal, non-commercial use only.
 
