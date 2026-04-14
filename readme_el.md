@@ -1,4 +1,7 @@
 IEK Pygame Arcade Project
+![Screenshot](images/photo.png)
+![Screenshot](images/photo1.png)
+
 Game Description (written in first person)
 
 I created a 2D arcade game with a Pac-Man style using Python and the Pygame library.
