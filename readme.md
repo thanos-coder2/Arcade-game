@@ -1,4 +1,4 @@
-Εργασια Ιεκ pygame arcade
+Εργασια Ιεκ Pygame Arcade
 ![Screenshot](images/photo.png)
 ![Screenshot](images/photo1.png)
 
