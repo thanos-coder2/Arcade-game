@@ -1,4 +1,4 @@
-Εργασια Ιεκ Pygame Arcade
+Εργασια Ιεκ Pygame Arcade Game pack-man
 ![Screenshot](images/photo.png)
 ![Screenshot](images/photo1.png)
 
